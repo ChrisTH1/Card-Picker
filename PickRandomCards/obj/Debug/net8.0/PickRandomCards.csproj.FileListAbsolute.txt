@@ -1,0 +1,14 @@
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.exe
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.deps.json
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.runtimeconfig.json
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.dll
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.pdb
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.AssemblyInfoInputs.cache
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.AssemblyInfo.cs
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.dll
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\refint\PickRandomCards.dll
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.pdb
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.genruntimeconfig.cache
+C:\Users\shutu\source\repos\PickRandomCards\PickRandomCards\obj\Debug\net8.0\ref\PickRandomCards.dll
